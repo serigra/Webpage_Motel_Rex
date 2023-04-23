@@ -1,4 +1,4 @@
-baseURL: https://phenomenal-kataifi-782c9d.netlify.app
+baseURL: http://phenomenal-kataifi-782c9d.netlify.app
 disableKinds:
   - section
   - taxonomy
