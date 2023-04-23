@@ -1,5 +1,5 @@
 ---
-title: "Impressionen"
+title: "About"
 weight: 4
 header_menu: true
 ---
@@ -24,8 +24,4 @@ Visit us on [Instagram](https://www.instagram.com/sereinag/)!
 
 ![Impressionen 4](images/impressionen_4.jpg)
 
----
 
-Hast Du Angregungen oder Fragen?
-
-Kontaktiere uns unter [this page](Kontakt).

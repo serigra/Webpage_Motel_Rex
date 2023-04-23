@@ -18,11 +18,11 @@ Lachs CH (Metzgerei XY) ・ Meerrettich ・ Dill ・ Zwiebeln
 
 ---
 
-### Fries | 7.-
+### Sushi | 19.-
 
-Kartoffeln aus biologischem Anbau.
+Lachs ・ Thunfisch ・ Nori ・ Ingwer ・ Soyasauce
 
-![Fries](images/fries.png)
+![Fries](images/sushi.png)
 
 ---
 

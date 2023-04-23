@@ -6,8 +6,8 @@ header_menu: true
 
 ---
 
-##### Felschlösschen | 6.-
-Aus der Bauerei Rheinfelden AG.
+##### Feldschlösschen | 6.-
+Aus der Brauerei Rheinfelden AG.
 
 
 ##### Corona | 6.-
