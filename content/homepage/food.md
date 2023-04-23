@@ -11,7 +11,7 @@ Alle unsere Zutaten stammen aus nachhaltigem und biologischen Anbau.
 ### Lachsbagel |  12.-
 
 
-Lachs CH (Metzgerei XY) ・ Zwiebeln ・ Eisbergsalat ・ Meerrettich
+Lachs CH (Metzgerei XY) ・ Meerrettich ・ Dill ・ Zwiebeln 
 
 ![Classic Meat Burger](images/lachsbagel.png)
 
