@@ -1,4 +1,4 @@
-baseURL: https://chic-centaur-098fe1.netlify.app # https://motel-rex.netlify.app
+baseURL: https://motel-rex.netlify.app
 disableKinds:
   - section
   - taxonomy

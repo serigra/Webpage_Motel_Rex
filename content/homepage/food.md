@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-Alle unsere Zutaten stammen aus nachhaltigem und biologischen Anbau.
+Alle unsere Zutaten stammen aus nachhaltigem und biologischem Anbau.
 
 ---
 
