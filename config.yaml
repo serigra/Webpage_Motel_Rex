@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: /
 disableKinds:
   - section
   - taxonomy
@@ -16,3 +16,8 @@ params:
   meta:
     keywords: some, keywords, for, seo, you, know, google, duckduckgo, and, such
   title: Motel Rex - Bar & Motel # doesn't change actual title! --> content/_index.md
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
