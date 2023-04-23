@@ -8,13 +8,12 @@ Alle unsere Zutaten stammen aus nachhaltigem und biologischen Anbau.
 
 ---
 
-### Classic Meat Burger  |  12.-
+### Lachsbagel |  12.-
 
-###### mit Fries  + 4.-
 
-Rindfleisch CH (Metzgerei XY) ・ Tomaten ・ Zwiebeln ・ Eisbergsalat ・ Cheddarköse ・ Tomatenketchup
+Lachs CH (Metzgerei XY) ・ Zwiebeln ・ Eisbergsalat ・ Meerrettich
 
-![Classic Meat Burger](images/Classy_meat_burger.png)
+![Classic Meat Burger](images/lachsbagel.png)
 
 
 ---
