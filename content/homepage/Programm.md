@@ -1,5 +1,5 @@
 ---
-title: "Programm"
+title: "Events"
 weight: 3
 header_menu: true
 ---

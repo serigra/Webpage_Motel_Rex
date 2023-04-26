@@ -1,27 +1,15 @@
 ---
 title: "About"
 weight: 4
-header_menu: true
+header_menu: false
 ---
 
 
-Visit us on [Instagram](https://www.instagram.com/sereinag/)!
+Visit us on [Instagram](https://www.instagram.com/leviathan.badenfahrt/)!
 
 
 ---
 
-![Impressionen 1](images/impressionen_1.jpg)
+![Impressionen 1](images/riviera.png)
 
 ---
-
-![Impressionen 2](images/impressionen_2.jpg)
-
----
-
-![Impressionen 3](images/impressionen_3.jpg)
-
----
-
-![Impressionen 4](images/impressionen_4.jpg)
-
-

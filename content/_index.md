@@ -1,5 +1,5 @@
 ---
-header_headline: Motel Rex
-header_subheadline:  Bar & Motel
-header_image: images/cover-image_5.jpg
+header_headline:
+header_subheadline:
+header_image: images/motel_rex_3.png
 ---
