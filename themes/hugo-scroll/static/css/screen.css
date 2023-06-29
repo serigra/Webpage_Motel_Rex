@@ -87,12 +87,16 @@ html {
   overflow-x: hidden;
 }
 
+title {
+     display: none;
+     }
+
 body {
   height: 100%;
   max-height: 100%;
   /*font-family: 'Droid Serif', serif;*/
-  font-family: "Roboto Slab", serif;
-  font-size: 2rem;
+  font-family: "BeausiteClassic";
+  font-size: 17px;   /*default: 2rem*/
   line-height: 1.6em;
   color: #3a4145;
 }
@@ -129,7 +133,7 @@ h6 {
   line-height: 1;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "BeausiteClassic", sans-serif;
 }
 h3,
 h4,
@@ -138,22 +142,22 @@ h6 {
   text-rendering: optimizeLegibility;
   line-height: 120%;
   margin-top: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "BeausiteClassic";
   margin-bottom: 0%;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   line-height: 1.2em;
-  letter-spacing: -2px;
-  text-indent: -3px;
+  letter-spacing: 1px;
+  text-indent: -4px;
 }
 
 h2 {
   font-size: 4rem;
   line-height: 1.2em;
   letter-spacing: -1px;
-  text-indent: -2px;
+  text-indent: -4px;
 }
 
 h3 {
@@ -186,21 +190,21 @@ a:hover {
 a.btn {
   text-decoration: none;
   background-color: #9fd067;
-  border-radius: 6px;
-  -webkit-border-radius: 6px;
+  border-radius: 2px;
+  -webkit-border-radius: 27px;
   color: white;
   display: inline-block;
-  font-size: 16px;
-  letter-spacing: 1px;
+  font-size: 18px;
+  letter-spacing: 2px;
   margin: 0;
   overflow: visible;
   padding: 10px 20px 10px 20px;
   position: relative;
-  margin-top: 2rem;
+  margin-top: 0rem;
   cursor: pointer;
-  font-family: "Oswald", sans-serif;
+  font-family: "BeausiteClassic";
   text-transform: uppercase;
-  font-weight: lighter;
+  font-weight: normal; /* lighter*/
 }
 
 a.btn:hover {
@@ -434,6 +438,14 @@ ul li {
   float: left;
   padding-top: 7px;
 }
+
+
+/* ==========================================================================
+      Other - added by Sereina
+      ========================================================================== */
+
+
+
 
 /* ==========================================================================
       3. Utilities - These things get used a lot
@@ -977,7 +989,7 @@ a.fn-item.active {
 
   h1 {
     font-size: 4.8rem;
-    text-indent: -2px;
+    text-indent: -4px;
   }
 
   h2 {

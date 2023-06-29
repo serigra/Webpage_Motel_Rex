@@ -11,29 +11,68 @@ Nachhaltig und biologisch.
 
 Bio-Lachs mit doppelt soviel Schwimmraum wie herkömmlicher Lachs.
 
-Transport CO2 kompensiert.
+Transport CO<sup>2</sup> kompensiert.
+
+Täglich frisch von [tiny Fish](https://www.tinyfish.ch/)!
 
 
 ---
 
-##### Sushi (8 Stk./ Rolle)
+##### Sushi (8 Stk / Rolle)
 
-* Salmon Avocado Rolle          <div align="right">8.-</div>
-* Tiny California Rolle         <div align="right">8.5</div>
-* Avocado Rolle (vegan).        <div align="right">7.-</div>
-* Cucumber Basil Rolle (vegan)  <div align="right">6.-</div>
+<p style="text-align:left;">
+    Salmon Avocado Rolle
+    <span style="float:right;">
+        8.-
+    </span>
+</p>
+
+<p style="text-align:left;">
+    Tiny California Rolle
+    <span style="float:right;">
+        8.5
+    </span>
+</p>
+
+<p style="text-align:left;">
+    Avocado Rolle (vegan)
+    <span style="float:right;">
+        7.-
+    </span>
+</p>
+
+<p style="text-align:left;">
+    Cucumber Basil Rolle (vegan)
+    <span style="float:right;">
+        6.-
+    </span>
+</p>
+
+<br>
 
 ![](images/sushi.png)
+
 
 ---
 
 
 ##### Bagels
 
-* Lachs-Spread Bagel               <div align="right">8.5</div>
-* Cream Cheese Bagel               <div align="right">4.5</div>
+<p style="text-align:left;">
+    Lachs-Spread Bagel 
+    <span style="float:right;">
+        8.5
+    </span>
+</p>
+
+
+<p style="text-align:left;">
+    Cream Cheese Bagel
+    <span style="float:right;">
+        4.5
+    </span>
+</p>
+
+<br>
 
 ![](images/bagel.png)
-
-
----

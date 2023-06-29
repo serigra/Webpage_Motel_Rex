@@ -7,39 +7,253 @@ header_menu: true
 ---
 #### Konzerte
 ---
-</br></br>
+
+<span style="font-size: 27px; color: #CCFF00">18 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Freitag</span>
 
 
-###### Samstag 19. August | Konzert Bla
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna.
+</br>
+
+<p style="text-align:left;">
+    Bahnhofbuffet Chancetal
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+    Amixs
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+    DJ Lyssan
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+    Gregory Gabelstapler
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
 
 ---
 
-###### Dienstag 22. August | Konzert Bli
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. 
+<span style="font-size: 27px; color: #CCFF00">19 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Samstag</span>
+
+</br>
+
+<p style="text-align:left;">
+   Danase
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+![](images/danase.JPG)
 
 ---
 
-###### Freitag 25. August | Konzert Blu
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna.
+<span style="font-size: 27px; color: #CCFF00">20 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Sonntag</span>
+
+<p style="text-align:left;">
+   Tom Paul
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
 
 
 ---
-#### Special Events
+
+<span style="font-size: 27px; color: #CCFF00">21 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Montag</span>
+
+</br>
+
+<p style="text-align:left;">
+   More Eats
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Envoiture Simona
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
+
 ---
 
+<span style="font-size: 27px; color: #CCFF00">22 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Dienstag</span>
 
-###### Samstag 19. August | Special Event I
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna.
+</br>
+
+<p style="text-align:left;">
+   Teenage Kings
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Kids
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Nail'Em
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
 
 ---
 
-###### Dienstag 22. August | Special Event II
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. 
+<span style="font-size: 27px; color: #CCFF00">23 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Mittwoch</span>
+
+</br>
+
+<p style="text-align:left;">
+   Topgyal Sound 
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   LaTeena
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Sabina Bösch
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
 
 ---
 
-###### Freitag 25. August | Special Event III
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna.
+<span style="font-size: 27px; color: #CCFF00">24 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Donnerstag</span>
+
+</br>
+
+<p style="text-align:left;">
+   Misanthrop
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Mute.ch Allstars
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
+---
+
+<span style="font-size: 27px; color: #CCFF00">25 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Freitag</span>
+
+</br>
+
+<p style="text-align:left;">
+   Ryler Smith
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Jay Boogie 
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
+---
+
+<span style="font-size: 27px; color: #CCFF00">26 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Samstag</span>
+
+</br>
+
+<p style="text-align:left;">
+   Nemoy Live
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Frank and Condor
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+
+---
+
+<span style="font-size: 27px; color: #CCFF00">27 AUG </span> <span style="font-size: 15px; color: #CCFF00">      Sonntag</span>
+
+</br>
+
+<p style="text-align:left;">
+   Soul Department 
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
+
+</br>
+
+<p style="text-align:left;">
+   Binggeli und Römer
+    <span style="float:right;">
+        00:00-00:00
+    </span>
+</p>
 
 
