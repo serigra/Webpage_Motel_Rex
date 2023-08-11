@@ -1,10 +1,10 @@
 ---
 title: "Food"
-weight: 2
+weight: 3
 header_menu: true
 ---
 
-<img style="float: right;" src="images/tiny_fish_3.png"  width="100" height="125">
+<img style="float: right;" src="images/tiny_fish_4.png"  width="100" height="125">
 
 
 Nachhaltig und biologisch.
@@ -16,35 +16,35 @@ Transport CO<sup>2</sup> kompensiert.
 Täglich frisch von [tiny Fish](https://www.tinyfish.ch/)!
 
 
----
+<hr color="#28334A" />
 
 ##### Sushi (8 Stk / Rolle)
 
 <p style="text-align:left;">
     Salmon Avocado Rolle
     <span style="float:right;">
-        8.-
+        11.-
     </span>
 </p>
 
 <p style="text-align:left;">
     Tiny California Rolle
     <span style="float:right;">
-        8.5
+        11.-
     </span>
 </p>
 
 <p style="text-align:left;">
     Avocado Rolle (vegan)
     <span style="float:right;">
-        7.-
+        9.-
     </span>
 </p>
 
 <p style="text-align:left;">
     Cucumber Basil Rolle (vegan)
     <span style="float:right;">
-        6.-
+        8.-
     </span>
 </p>
 
@@ -53,7 +53,7 @@ Täglich frisch von [tiny Fish](https://www.tinyfish.ch/)!
 ![](images/sushi.png)
 
 
----
+<hr color="#28334A" />
 
 
 ##### Bagels
@@ -61,7 +61,7 @@ Täglich frisch von [tiny Fish](https://www.tinyfish.ch/)!
 <p style="text-align:left;">
     Lachs-Spread Bagel 
     <span style="float:right;">
-        8.5
+        11.-
     </span>
 </p>
 
@@ -69,7 +69,7 @@ Täglich frisch von [tiny Fish](https://www.tinyfish.ch/)!
 <p style="text-align:left;">
     Cream Cheese Bagel
     <span style="float:right;">
-        4.5
+        7.-
     </span>
 </p>
 
