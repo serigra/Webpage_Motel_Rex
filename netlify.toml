@@ -9,16 +9,11 @@ HUGO_ENABLEGITINFO = "true"
 
 [context]
 [context.branch-deploy]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+command = 'hugo -F -b https://www.motel-rex.ch'
 
 [context.deploy-preview]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+command = 'hugo -F -b https://www.motel-rex.ch'
 
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
