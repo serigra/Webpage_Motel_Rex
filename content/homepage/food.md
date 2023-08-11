@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-<img style="float: right;" src="images/tiny_fish_4.png"  width="100" height="125">
+<img style="float: right;" src="images/tiny_fish_1.png"  width="100" height="125">
 
 
 Nachhaltig und biologisch.
