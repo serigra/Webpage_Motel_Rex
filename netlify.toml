@@ -17,8 +17,11 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+<<<<<<< HEAD
 
 [headers]
   for = "/*"
   [headers.values]
   Access-Control-Allow-Origin = "https://www.motel-rex.ch/*"
+=======
+>>>>>>> b8d820ad8eea463060643f8a2e1422d571483bd7
