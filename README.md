@@ -4,6 +4,8 @@ See the website here: https://motel-rex.netlify.app/
 
 Website done with `blogdown` based on [Hugo Scroll](https://themes.gohugo.io/themes/hugo-scroll/) by [Jan Raasch](https://www.janraasch.com/)
 
+![](webpage_0.png)
+
 ![](webpage_1.png)
 
 ![](webpage_2.png)
