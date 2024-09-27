@@ -2,7 +2,7 @@
 
 See the website here: https://motel-rex.netlify.app/
 
-Website done with `blogdown` and based on [Hugo Scroll](https://themes.gohugo.io/themes/hugo-scroll/) by [Jan Raasch](https://www.janraasch.com/)
+Website done with `blogdown` and based on [Hugo Scroll](https://themes.gohugo.io/themes/hugo-scroll/) by [Jan Raasch](https://www.janraasch.com/), and hosted by Netifly(https://www.netlify.com/).
 
 ![](webpage_0.png)
 
