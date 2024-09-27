@@ -4,10 +4,13 @@ weight: 4
 header_menu: true
 ---
 
----
-#### Konzerte
----
+<br><br>
 
+<a href = "images/Bafa_Programm.pdf" download >  
+ <b> Konzert Programm (PDF) </b>  
+</a>  
+
+<br><br>
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
     Freitag, 18 AUG, 20:30
@@ -101,6 +104,19 @@ https://www.instagram.com/lys1_the_dj/
 ---
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Samstag, 19 AUG, 20:30
+    <p style="font-size: 25px; margin-top:0">HYKAY</p>
+</p>
+
+![](images/230428_BaFa_SoMe_Programm_hy.jpg)
+
+Dancefloor Dynamite, Chur bis Zürich
+
+HYPHEN (Breitbild) und KAY sind der Inbegriff des Kind gebliebenen Grown-Ups: verspielt, ambitioniert und äusserst classy. Dies wissen unzählige Clubs und Festivals seit Jahren und buchen das Duo Infernale à gogo. Im Motel Rex machen sie die Piano Bar zur Dancehall. 
+
+---
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
     Samstag, 19 AUG, 22:30
     <p style="font-size: 25px; margin-top:0">Danase</p>
 </p>
@@ -115,6 +131,44 @@ Danase hat das im Motel Rex verdiente Geld schon im Januarloch ausgegeben. Jetzt
 
 **Links**
 [Instagram](https://www.instagram.com/instanase/)
+
+
+---
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Sonntag, 20 AUG, 18:00
+    <p style="font-size: 25px; margin-top:0">MEREST
+</p>
+</p>
+
+![](images/230428_BaFa_SoMe_merest.jpg)
+
+Dreamy-Jazzy-Pop, Basel
+
+Die Songs von MEREST handeln von Identitätssuche: Wer bin ich? Wo finde ich mit meinen Gedanken Platz in dieser unruhigen Welt? Wer sind wir als Menschen? Und wer können wir werden? Ein Gedankenkarussell zum Mitfahren.
+
+
+---
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Sonntag, 20 AUG, 21:00
+    <p style="font-size: 25px; margin-top:0">eggs and tiaras
+</p>
+</p>
+
+![](images/230428_BaFa_SoMe_eggs.jpg)
+
+Post-Punk-Electroclash mit Stil, Zürich und Neuchâtel
+
+Das Duo eggs and tiaras vermischt die Grenzen der Genres und navigiert irgendwo zwischen Elektronik und Pop. Die emotionale Reise, auf die uns dieses Crossover aus Zürich und Neuchâtel mitnimmt, grenzt ans Mystische und erfindet das Dunkle neu, angetrieben von einem ordentlichen Energieschub. Vitaminreiche Kicks und wilde Synthesizer werden von einer feinen Stimme begleitet, die auf Deutsch, Französisch und Englisch die manchmal absurden Geschichten des
+Alltagslebens schildert.
+
+<iframe width="320" height="190" src="https://www.youtube.com/embed/IzFdouQM7_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Links**
+
+[instagram/eggs_and_tiaras](https://www.instagram.com/eggs_and_tiaras/)
+
 
 
 ---
@@ -319,6 +373,16 @@ Boogie down!
 ---
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Samstag, 26 AUG, 15:00
+    <p style="font-size: 25px; margin-top:0">Tina & Marcus</p>
+</p>
+
+![](images/230428_BaFa_SoMe_tina.jpg)
+
+
+---
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
     Samstag, 26 AUG, 21:00
     <p style="font-size: 25px; margin-top:0">Nemoy Live</p>
 </p>
@@ -333,6 +397,21 @@ Nemoy liebt die Synthesizer und die Synthesizer lieben ihn. Frei improvisierte, 
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
     Samstag, 26 AUG, 22:30
+    <p style="font-size: 25px; margin-top:0">50:50</p>
+</p>
+
+![](images/230428_BaFa_SoMe_50.jpg)
+
+Badens Finest Rap
+
+Die legendärste Badener Rap-Crew kommt für eine kurze und heftige Show noch ein letztes Mal zusammen. Die rhetorische Frage «Wo isch de Usgang?» beantworten sie ein letztes mal selbst: «DA isch de Usgang!»  
+
+
+
+---
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Samstag, 26 AUG, 23:00
     <p style="font-size: 25px; margin-top:0">Frank & Ivan Alejandro</p>
 </p>
 
@@ -345,6 +424,8 @@ Endlich wieder! Schon an der Badenfahrt 2017 haben Frank und Ivan die Parzelle 5
 **Links**
 [Soundcloud/cndr](https://soundcloud.com/cndr)
 [Soundcloud/fanto_frank](https://soundcloud.com/fanto_frank)
+
+
 
 ---
 
@@ -378,37 +459,3 @@ Ja, sie beehren uns wieder! «Soul Department» machten schon 2017 mit ihrer Mis
 [https://souldepartment.ch](https://souldepartment.ch)
 
 
----
-#### Events im Zimmer 91
----
-
-
-<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
-    Donnerstag, 24 AUG, ab 18.00
-    <p style="font-size: 25px; margin-top:0">Goris Sticken</p>
-</p>
-
-[goris.sticken](https://www.instagram.com/goris.sticken/?igshid=MzRlODBiNWFlZA%3D%3D)
-stickt dir dein personalisiertes T-Shirt im Zimmer 91. Nimm dein eigenes T-Shirt mit oder kauf eines vorort.
-
-
-**Links**
-
-[instagram.com/goris.sticken](https://www.instagram.com/goris.sticken/?igshid=MzRlODBiNWFlZA%3D%3D)
-
-http://www.goris.store/
-
----
-
-<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
-    Samstag, 26 AUG, ganztags
-    <p style="font-size: 25px; margin-top:0">Tattoo Artist - Michelle Rose</p>
-</p>
-
-Michelle Rose tättowiert dich im Zimmer 91. Melde dich für Termin und Sujet (max. 10 x 10 cm) bei [mish_rose_](https://www.instagram.com/mish_rose_/).
-
-**Links**
-
-[instagram.com/mish_rose_](https://www.instagram.com/mish_rose_/)
-
----

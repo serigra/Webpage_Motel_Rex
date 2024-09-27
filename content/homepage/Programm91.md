@@ -10,6 +10,25 @@ header_menu: true
 ---
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Samstag, 19 AUG, Nachmittags
+    <p style="font-size: 25px; margin-top:0">Red Carpet Band Room</p>
+</p>
+
+![](images/RCBR.png)
+
+Am Samstag 19. August checkt bei uns der Red Carpet Band Room ein und wird euch mit einer live Jamsession einen Einblick ins Bandleben geben.
+
+
+
+
+**Links**
+
+[instagram/rcbr_underground](https://www.instagram.com/rcbr_underground/)
+
+
+<hr color="#28334A" />
+
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
     Sonntag, 20 AUG, 14.00 - 18.00
     <p style="font-size: 25px; margin-top:0">Schneidplottern mit KreativChalet</p>
 </p>
@@ -30,6 +49,20 @@ Beplotte dein personalisiertes Badenfahrt Stifteetui!
 
 <hr color="#28334A" />
 
+<p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
+    Mittwoch, 23 AUG, 19.00 - 20.00
+    <p style="font-size: 25px; margin-top:0">Zauberer Jovi</p>
+</p>
+
+![](images/zauberer.png)
+
+**Links**
+
+[the-jovi.ch](https://www.the-jovi.ch/)
+
+
+
+<hr color="#28334A" />
 
 
 <p style="font-size: 15px; text-align:left; margin-bottom:0; color: #949BB0">
